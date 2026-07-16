@@ -1,4 +1,4 @@
-# ONLINE-EXAM-MALPRACTICE-DETECTION
+# Malpractice Detection in Online Exam 
 Overview
 The Online Exam Malpractice Detection System is an Artificial Intelligence based application designed to monitor students during online examinations and detect suspicious activities.
 
