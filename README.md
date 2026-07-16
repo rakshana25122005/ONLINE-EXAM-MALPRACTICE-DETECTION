@@ -56,8 +56,8 @@ Detection Screenshot
 👩‍💻 Authors
 This project was developed by:
 
-Jane Charusha C J
 Rakshana G
+Jane Charusha C J
 Agalya S
 Abinaya D
 Tejaswini
